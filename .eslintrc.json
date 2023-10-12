@@ -1,0 +1,4 @@
+{
+  "plugins": ["jest-dom"],
+  "estends": ["react-app", "react-app/jest", "plugin:jest-dom/recommend"]
+}
